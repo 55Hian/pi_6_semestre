@@ -1,2 +1,2 @@
 # Ignore node_modules directory
-PI5SEM_AGV-Backend/node_modules/
+**/node_modules
